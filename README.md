@@ -1,1 +1,1 @@
-# ghost-rjkf
+# 目前主要是用在自己的博客：https://www.rjkf.cn
