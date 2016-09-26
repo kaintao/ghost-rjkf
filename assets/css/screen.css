@@ -452,7 +452,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .main-nav a {
     text-decoration: none;
-    font-family: 'Open Sans', sans-serif;
+    font-family: inherit;
 }
 
 /* Create a bouncing scroll-down arrow on homepage with cover image */
@@ -627,7 +627,7 @@ margin on the iframe, cause it breaks stuff. */
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    font-family: inherit;
     color: #fff;
 }
 
@@ -708,7 +708,7 @@ body:not(.post-template) .post-title {
 .post-meta {
     display: block;
     margin: 1.75rem 0 0 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: inherit;
     font-size: 1.5rem;
     line-height: 2.2rem;
     color: #9EABB3;
@@ -785,7 +785,7 @@ body:not(.post-template) .post-title {
   display: inline-block;
   margin-bottom: 0;
   padding: 9px 14px;
-  font-size: 1.1rem;
+  font-size: 14px;
   line-height: 1.428571429;
   font-weight: 300;
   text-align: center;
@@ -800,7 +800,7 @@ body:not(.post-template) .post-title {
   border-radius: 2px;
   -webkit-user-select: none;
   text-decoration:none;
-  font-family: "Open Sans", sans-serif;
+  font-family: inherit;
 }
 
 .btn-blue{
@@ -1177,8 +1177,8 @@ body:not(.post-template) .post-title {
   position: relative;
   width: 100%;
   margin: 0 auto;
-  font-family: "Open Sans", sans-serif;
-  font-size: 1.3rem;
+  font-family: inherit;
+  font-size: 14px;
   color: #4A4A4A;
   text-align: center;
   margin-bottom: 2em;
@@ -1195,7 +1195,7 @@ body:not(.post-template) .post-title {
 .newer-posts {
     position: absolute;
     display: inline-block;
-    padding: 0 15px;
+    padding: 4px 15px;
     border: #4A4A4A 1px solid;
     text-decoration: none;
     transition: border ease 0.3s;
@@ -1250,7 +1250,7 @@ body:not(.post-template) .post-title {
     margin: 6rem 0 0 0;
     padding: 0.5rem 15px;
     border-top: #EBF2F6 1px solid;
-    font-family: "Open Sans", sans-serif;
+    font-family: inherit;
     font-size: 1rem;
     line-height: 1.75em;
     color: #BBC7CC;
